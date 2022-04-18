@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0,'bs4.zip')
 from bs4 import BeautifulSoup
 
-#Imitate the Mozilla browser.
+#Imitate the Google chrome
 user_agent = {'User-agent': 'Chrome/100.0.4896.75'}
 
 
